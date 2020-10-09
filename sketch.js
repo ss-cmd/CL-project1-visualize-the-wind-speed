@@ -1,6 +1,6 @@
 let weather;
 //http://api.openweathermap.org/data/2.5/weather?q=London&appid=a8ca8f0023037bfb47c4548a07616571
-let api = "http://api.openweathermap.org/data/2.5/weather?q=";
+let api = "https://api.openweathermap.org/data/2.5/weather?q=";
 //let city ="beijing";
 let apiKey = "&appid=a8ca8f0023037bfb47c4548a07616571";
 let input;
