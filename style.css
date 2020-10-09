@@ -1,0 +1,46 @@
+body {
+  padding: 50px;
+  background-color: rgba(245, 238, 238, 0.726);
+  font-family: 'helvetica', sans-serif;
+}
+
+.project__heading {
+  background-color: #ffffff88;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+  border-radius: 30px;
+
+  /* position fixed - will force the element to stay in place */
+  position: fixed;
+  width: 98%;
+  top: 0;
+  right: 5px;
+  left: 5px;
+}
+.project__desc{
+  font-weight:700;
+  text-align: center;
+  font-size:50px;
+  margin-top:50px;
+  }
+
+
+p{
+  text-align: center;
+  padding: 10px;
+  font-family: 'helvetica', sans-serif;
+  font-size: 20px;
+  margin:20px;
+}
+
+h2{
+  text-align: center;
+  font-family: Helvetica;
+  margin:20px;
+  font-size: 20px;
+
+}
+canvas {
+  display: block;
+}
